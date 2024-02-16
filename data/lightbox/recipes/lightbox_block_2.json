@@ -9,6 +9,8 @@
       "item": "minecraft:glass"
     }
   ],
-  "result": "minecraft:light",
-  "count": 4
+  "result": {
+    "item": "minecraft:light",
+    "count": 4
+  }
 }
