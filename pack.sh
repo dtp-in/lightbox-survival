@@ -7,4 +7,4 @@ rm -rf */*/*/*/.DS_Store
 
 mkdir dist
 
-zip dist/pack.zip data/lightbox/recipes/* data/lightbox/functions/*/* data/global/*/* data/minecraft/*/*/* pack.mcmeta
+zip dist/pack.zip data/lightbox/recipe/* data/lightbox/function/*/* data/global/*/* data/minecraft/*/*/* pack.mcmeta

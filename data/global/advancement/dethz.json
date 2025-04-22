@@ -3,8 +3,13 @@
     "title": "dtpin-lightbox-survival",
     "description": "create invisible lightbox in survival",
     "icon": {
-      "item": "minecraft:player_head",
-      "nbt": "{SkullOwner: '_Detzz'}"
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "SkullOwner": "_Detzz"
+        }
+      },
+      "count": 1
     },
     "show_toast": true,
     "announce_to_chat": false
