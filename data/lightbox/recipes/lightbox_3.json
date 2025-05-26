@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lightbox",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_torch"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": "minecraft:light",
+  "count": 2
+}
